@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/leobarone/leobarone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+PolSci, data geek, R programmer, math enthusiast, pirate and bike lover. Pos-Doc researcher at the Department of Political Science at University of São Paulo. Follow me on [github](https://github.com/leobarone) or [twitter](https://twitter.com/leobarone)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Curriculum Vitae - [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4274525E6)
 
-### Markdown
+### Courses and Tutorials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Introduction to Programming and Computational tools for Social Sciences (FLS6397)](https://github.com/leobarone/FLS6397) (Portuguese) - Graduate course on R Programming for Political and Social Scientists - DCP-USP - 2017
 
-```markdown
-Syntax highlighted code block
+* [IPSA-USP Essentials of Applied Data Analysis](https://github.com/leobarone/IPSA_USP_EADA_2017) (English) - Graduate course on Basic Statistics and Data Analysis - Handouts and Stata Laboratory Exercises - IPSA-USP 2017
 
-# Header 1
-## Header 2
-### Header 3
+* [webscrapping with R](https://github.com/leobarone/Webscraping_R_XML_Legislativo_2016_1) (Portuguese) - Oficina de webscraping com R e pacote XML para dados Legislativos - DCP-USP - 2016
 
-- Bulleted
-- List
+* [twitter data with R](https://github.com/leobarone/Neci_twitter) (Portuguese) - Twitter API com R 
 
-1. Numbered
-2. List
+### Random useful code on gist
 
-**Bold** and _Italic_ and `Code` text
+* [bRasilLegis](https://github.com/leobarone/bRasilLegis) - R tools for Brazilian Chamber of Deputies (Camara dos Deputados) data
 
-[Link](url) and ![Image](src)
-```
+* [get_tse](https://gist.github.com/leobarone/a42ead8bd3919d8147e3505accee6b6e) - an easy R function to grab and organize data from Repositório de Dados Eleitorias do TSE (Brazilian electoral justice)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [pdfToText](https://gist.github.com/leobarone/8a6127b6942fcb82ac20) - convert .pdf files into character vectors in R
 
-### Jekyll Themes
+* [hackatonCamara](https://github.com/leobarone/hackathonCamara) - hackaton Camara dos Deputatos final project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leobarone/leobarone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [PhD Dissertation](https://github.com/leobarone/tese) - verry messy, not really up to date
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Soon to be updated
+
+### Contact
+
+[leobarone at gmail.com](leobarne@gmail.com)
